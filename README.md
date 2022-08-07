@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&layout=compact)](https://github.com/hasegawa2073/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasegawa2073)](https://github.com/hasegawa2073/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasegawa2073&theme=default)

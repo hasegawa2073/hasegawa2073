@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Hasegawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasegawa2073&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&layout=compact)](https://github.com/hasegawa2073/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&count_private=true&layout=compact)](https://github.com/hasegawa2073/github-readme-stats)

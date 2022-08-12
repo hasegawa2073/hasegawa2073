@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 <div>
-  <a href="https://github.com/hasegawa2073">
-   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=hasegawa2073&count_private=true&show_icons=true" />
+  <a href="https://github-readme-stats.vercel.app/api?username=hasegawa2073&count_private=true&show_icons=true">
+   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hasegawa2073&count_private=true&show_icons=true" />
   </a>
 </div>
 <div>
-  <a href="https://github.com/hasegawa2073">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&count_private=true&layout=compact" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&count_private=true&layout=compact">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&count_private=true&layout=compact" />
   </a>
 </div>

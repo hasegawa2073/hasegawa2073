@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&count_private=true&layout=compact">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&count_private=true">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasegawa2073&count_private=true&layout=compact" />
   </a>
 </div>
